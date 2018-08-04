@@ -1,1 +1,6 @@
-/UpLoadPhotoServlet.class
+/HeroListServlet.class
+/HeroAddServlet.class
+/dao/
+/HeroDeleteServlet.class
+/HeroEditServlet.class
+/HeroUpdateServlet.class
